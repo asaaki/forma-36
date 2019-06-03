@@ -23,6 +23,7 @@
   appearance: none;
   white-space: normal;
   text-align: left;
+  font-weight: 400;
 
   & > span {
     outline: 0;
